@@ -1,0 +1,8 @@
+Query: City + Data[Month/Day]
+
+Input: City 2015 4 3
+Output: 
+    1. Air Condition[AQI, RANK, PM2.5, PM10, No2, So2, Co, O3]
+    2. Month Flow
+
+
