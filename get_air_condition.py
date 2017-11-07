@@ -2,7 +2,7 @@ __author__ = 'Minchiuan Gao'
 __mail__ = 'minchiuan.gao@gmail.com'
 
 import requests
-from bs4 import  BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 def get_city_coding():
